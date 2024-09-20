@@ -85,7 +85,7 @@ export default function Home1({ onePage = false, dark = false }) {
                 </a>
               ) : (
                 <Link
-                  href={`/main-pages-about-1${dark ? "-dark" : ""}`}
+                  href={`/about${dark ? "-dark" : ""}`}
                   className="link-hover-anim underline align-middle"
                   data-link-animate="y"
                 >
