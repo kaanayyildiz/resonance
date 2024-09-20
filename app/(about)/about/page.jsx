@@ -193,9 +193,7 @@ export default function MainAboutPage3() {
                         How we works?
                       </h2>
                       <p className="text-gray mb-0">
-                        Lorem ipsum dolor sit amet casume adipisin elit. Maximus
-                        ligula semper metus pellentesque mattis volutpat, lorem
-                        diam enim.
+                      Inox delivers high-quality stainless steel products with precision. Our expert team ensures efficiency, attention to detail, and on-time delivery, prioritizing customer satisfaction.
                       </p>
                     </div>
                     {/* End Text */}
