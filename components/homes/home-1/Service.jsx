@@ -113,7 +113,7 @@ export default function Service() {
                 aria-selected="false"
                 data-bs-toggle="tab"
               >
-                ERP for Aviation <span className="number">08</span>
+                ERP Systems <span className="number">08</span>
               </a>
             </li>
           </ul>
@@ -299,9 +299,9 @@ export default function Service() {
             >
               <div className="services-text">
                 <div className="services-text-container">
-                  <h4 className="services-title">ERP for Aviation</h4>
+                  <h4 className="services-title">ERP Systems</h4>
                   <p className="text-gray mb-0">
-                  Our ERP system, tailored for the construction and aviation industries, streamlines our processes and ensures high precision in all our operations.
+                  Our ERP system, specifically designed for our company, optimizes processes and ensures precision across all our operations, enhancing efficiency and accuracy.
                   </p>
                 </div>
               </div>
