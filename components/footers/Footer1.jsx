@@ -24,7 +24,7 @@ export default function Footer1({ dark = false }) {
               />
 
               <Image
-                src="/assets/images/inox-logo-white.png"
+                src="/assets/images/inox-logo.png"
                 width={105}
                 height={34}
                 className="dark-mode-logo"

@@ -22,7 +22,7 @@ export default function Header1Multipage({ links }) {
             className="light-mode-logo"
           />
           <Image
-            src="/assets/images/inox-logo-white.png"
+            src="/assets/images/inox-logo.png"
             alt="Inox Logo"
             width={105}
             height={34}
