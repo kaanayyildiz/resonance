@@ -4,9 +4,9 @@ import React from "react";
 import Image from "next/image";
 export const metadata = {
   title:
-    "Page Not Found || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Page Not Found || Inox",
   description:
-    "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Inox",
 };
 export default function MainAboutPage1() {
   return (
@@ -22,15 +22,15 @@ export default function MainAboutPage1() {
                 <div className="nav-logo-wrap local-scroll">
                   <Link href={`/`} className="logo">
                     <Image
-                      src="/assets/images/logo-white.svg"
-                      alt="Your Company Logo"
+                      src="/assets/images/inox-logo.png"
+                      alt="Inox"
                       width={105}
                       height={34}
                       className="logo-white"
                     />
                     <Image
-                      src="/assets/images/logo-dark.svg"
-                      alt="Your Company Logo"
+                      src="/assets/images/inox-logo-dark.png"
+                      alt="Inox"
                       width={105}
                       height={34}
                       className="logo-dark"
@@ -46,14 +46,14 @@ export default function MainAboutPage1() {
                 <div className="inner-nav desktop-nav">
                   <ul className="clearlist scroll-nav local-scroll justify-content-end">
                     <li className="active">
-                      <a href="mailto:ibthemes21@gmail.com">
+                      <a href="mailto:info@metalyapi-inox.com">
                         <i className="mi-email align-center" />
-                        ibthemes21@gmail.com
+                       info@metalyapi-inox.com
                       </a>
                     </li>
                     <li>
-                      <a href="#">
-                        <i className="mi-call align-center" /> 0307-567-890
+                      <a href="+902127866109">
+                        <i className="mi-call align-center" /> +90 212 786 61 09
                       </a>
                     </li>
                   </ul>
@@ -68,7 +68,7 @@ export default function MainAboutPage1() {
                 className="home-section bg-dark-1 bg-dark-alpha-60 light-content parallax-5"
                 style={{
                   backgroundImage:
-                    "url(/assets/images/full-width-images/section-bg-3.jpg)",
+                    "url(/assets/images/full-width-images/2.jpg)",
                 }}
                 id="home"
               >
