@@ -210,7 +210,7 @@ export default function Home1({ onePage = false, dark = false }) {
                   </a>
                 ) : (
                   <Link
-                    href={`/main-pages-contact-1${dark ? "-dark" : ""}`}
+                    href={`/contact${dark ? "-dark" : ""}`}
                     className="btn btn-mod btn-large btn-round btn-hover-anim"
                   >
                     <span>Contact us</span>
